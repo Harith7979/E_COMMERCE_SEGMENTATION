@@ -27,4 +27,4 @@ Implement the Elbow method or Silhouette method to find the optimum number of K.
 After getting optimum K value use it as number of clusters and perform the model fit.
 The model will provide the output with different clusters.
 Analyed each clusters using visualization techniques to find the insights.
-Finally I got the conclusion (Refer attached python notebook) by analyzing each clusters.
+
